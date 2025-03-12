@@ -1,0 +1,19 @@
+# Xcode
+*.xcworkspace
+*.xcuserstate
+*.xccheckout
+build
+DerivedData
+*.ipa
+*.app
+xcuserdata
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbxuser
+*.xcworkspace/xcuserdata
+*.xcworkspace/xcschemes
+/Pods
+/Carthage
+/build
+/DerivedData
